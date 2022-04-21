@@ -12,4 +12,4 @@ class LogLoss():
         w = np.random.normal(size=(X.shape[1],1))
 
         while True:
-            
+            fsfsdfsfsg
